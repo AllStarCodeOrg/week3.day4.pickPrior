@@ -1,0 +1,56 @@
+#first_line {
+  font-family: Helvetica;
+  font-size: 94%;
+  padding: 3%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#second_line {
+  background-color: #000000;
+  color: white;
+  float: above;
+  font-size: 90%;
+  padding: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+/* h1 {
+  font-size: 80px;
+  font-family: Georgia;
+} */
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+#highschool {
+  background-color: red;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+h2 {
+  float: above;
+  font-size: 80%;
+  padding: 10%;
+}
+#highschool_pics {
+  float: above;
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+}
+#college {
+  display: flex;
+  background-color: red;
+  color: whitesmoke;
+}
+#college_pics {
+  float: above;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+}
